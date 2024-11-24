@@ -1,7 +1,6 @@
 # Face-Recognition
 A simple face recognition script that identifies and classifies all faces in an image.
 
-You can watch this video to see how the code works: https://www.youtube.com/watch?v=D5xqcGk6LEc
 
 # How to Run
 - Install all of the packages listed in requirements.txt. 
